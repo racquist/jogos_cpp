@@ -1,0 +1,1 @@
+CXXFLGS= -std=c++11
